@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FractionSpec","IntervalSpec"],"fn":["order_statistics","quantiles_without_nan"],"struct":["Breaks","Fractions"]};
